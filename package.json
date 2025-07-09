@@ -2,12 +2,12 @@
   "name": "uptime-status",
   "version": "1.0.0",
   "private": true,
-  "author": "Eilo",
+  "author": "JLinmr",
   "url": "https://www.eilo.uk",
   "email": "eilo@eilo.uk",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eilo2010"
+    "url": "https://github.com/JLinMr/Uptime-Status"
   },
   "type": "module",
   "scripts": {
